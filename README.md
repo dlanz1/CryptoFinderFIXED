@@ -18,3 +18,6 @@ inputted cryptocurrency given it is spelt correctly or its symbol is submitted, 
 if "bitcoin" or "BTC" is submitted it will show data such as its name, symbol,
 price, and market cap. 
 
+**UPDATED**
+
+This version has been updated with Prof. Toal's feedback for the final.
