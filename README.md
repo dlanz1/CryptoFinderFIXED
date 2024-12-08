@@ -1,4 +1,4 @@
-**Crypto Finder**
+**CryptoFinder**
 
 **Authors** 
 Aidan Hodges, Derek Lanz
