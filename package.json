@@ -1,7 +1,8 @@
 {
-  "name": "react",
-  "version": "1.0.0",
-  "description": "",
+  "name": "CryptoFinder",
+  "version": "2.0.0",
+  "description": "Tool to find stats about inputted cryptocurrency",
+  "author": "Aidan Hodges, Derek Lanz",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
